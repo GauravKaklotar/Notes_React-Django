@@ -11,6 +11,7 @@ const NotesListPage = () => {
         getNotes()
     }, [])
 
+    // Get all notes
 
     let getNotes = async () => {
 
